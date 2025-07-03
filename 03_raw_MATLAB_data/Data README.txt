@@ -1,0 +1,1 @@
+These are not all of the raw MATLAB fiber photometry files from the Lebonville et al 2025 manuscript, but rather a small number to test out code on. You will need the TDT provided TDTbin2mat MATLAB files to read in and process this data. 
