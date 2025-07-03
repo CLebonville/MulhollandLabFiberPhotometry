@@ -1,20 +1,12 @@
-This document details how to read in, analyze, and produce graphs with
-the data that is output from Mulholland Lab's MATLAB Fiber Photometry
-loop function AFTER compilation (post-MATLAB workflow). To run the code, 
+This document details how to read in, process, analyze, and produce graphs with
+the data that is output from the Mulholland Lab's fiber photometry set up. 
 
-simply navigate to the block of code and press the play button (green triangle). 
+PLEASE SEE THE FIBER PHOTOMETRY WORKFLOW IMAGE TO SEE WHICH CODE IS FOR WHAT STAGE.
 
-If the code errors, it will show you were the error occurred, making it easy to
-adapt the code as processes change.
-
-
-
-To begin, you will need to install, R, RStudio, and Rtools as detailed
+To run the R code, you will need to install, R, RStudio, and Rtools as detailed
 in the protocol to do so on the Mulholland server in the "Computation
 Behavior" folder. To make things smoother, use the versions listed
 below.
-
-
 
 FOR DATA ANALYSIS IN R Environment Details: R 4.2.3 (2023-03-15 ucrt) --
 "Shortstop Beagle" Platform: x86\_64-w64-mingw32/x64 (64-bit) USING
